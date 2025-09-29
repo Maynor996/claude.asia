@@ -4,7 +4,7 @@
 
 
 
-国内使用地址： https://vlink.cc/maynorai
+国内使用地址：https://agi.maynor1024.live/list/#/
 
 如网站打不开可联系我： 微信 coder-maynor
 
@@ -69,4 +69,4 @@
 
 Claude中国官网的上线，标志着我们向提供优质AI聊天服务迈出了重要一步。通过解决支付困难、保障隐私安全、消除封号风险等问题，我们致力于为用户提供更好的使用体验。未来，我们将继续优化平台功能，丰富服务内容，让更多用户体验到人工智能带来的便利与惊喜。欢迎访问我们的官网，体验不一样的Claude！
 
-国内访问地址：https://vlink.cc/maynorai
+国内访问地址：https://agi.maynor1024.live/list/#/
